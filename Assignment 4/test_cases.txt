@@ -1,0 +1,74 @@
+str_1 = {
+Life is like a drop of water on a lotus leaf, unsteady and prone to fall at any time.
+The entire world, like a large ocean, is full of uncertainties and suffering,
+and one must strive to transcend it by understanding its fleeting nature.
+Just as a drop of water falling on a hot iron disappears in an instant,
+so too is the fleeting nature of human life.
+Everyone in the world is constantly searching for happiness,
+but true peace and contentment can only be found by accepting the ephemeral nature of life.
+}
+
+str_2 = {
+You are about to sacrifice something precious.
+The life of a fair maiden,
+that you would toss into the fiery forge.
+Only so that you may be Lord.
+What a horrible thing to ponder.
+Your ascendency requires her sacrifice,
+whether she wishes it or not.
+But how would the Lord, crowned so, be looked upon?
+Chosen Tarnished and would-be Lord,
+dare to tread the path of true rigor.
+Spare the poor girl,
+and singe your own flesh in her stead.
+If you are prepared to show resolve
+and attain Lordship through righteous hardship,
+then heed the words of I, Shabriri.
+Chosen Tarnished, and would-be Lord.
+Descend into the depths, far below the Erdtree Capital.
+Seek audience with the Three Fingers
+and the flame of frenzy.
+If you inherit the flame of frenzy,
+your flesh will serve as kindling
+and the girl can be spared
+...setting you on the righteous path of lordship.
+The path of the Lord of Chaos.
+Burn the Erdtree to the ground,
+and incinerate all that divides and distinguishes.
+Ahhh, may chaos take the world!
+MAY CHAOS TAKE THE WORLD!
+}
+
+str_3 = {
+include<stdio.c> 
+ 
+int main()
+{ 
+    printf("Hello World!"); 
+    return 0; 
+}
+}
+
+str_4 = {
+             k;double sin()
+         ,cos();main(){float A=
+       0,B=0,i,j,z[1760];char b[
+     1760];printf("\x1b[2J");for(;;
+  ){memset(b,32,1760);memset(z,0,7040)
+  ;for(j=0;6.28>j;j+=0.07)for(i=0;6.28
+ >i;i+=0.02){float c=sin(i),d=cos(j),e=
+ sin(A),f=sin(j),g=cos(A),h=d+2,D=1/(c*
+ h*e+f*g+5),l=cos      (i),m=cos(B),n=s\
+in(B),t=c*h*g-f*        e;int x=40+30*D*
+(l*h*m-t*n),y=            12+15*D*(l*h*n
++t*m),o=x+80*y,          N=8*((f*e-c*d*g
+ )*m-c*d*e-f*g-l        *d*n);if(22>y&&
+ y>0&&x>0&&80>x&&D>z[o]){z[o]=D;;;b[o]=
+ ".,-~:;=!*#$@"[N>0?N:0];}}/*#****!!-*/
+  printf("\x1b[H");for(k=0;1761>k;k++)
+   putchar(k%80?b[k]:10);A+=0.04;B+=
+     0.02;}}/*****####*******!!=;:~
+       ~::==!!!**********!!!==::-
+         .,~~;;;========;;;:~-.
+             ..,--------,*/
+}
